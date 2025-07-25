@@ -1,2 +1,28 @@
-# Personal-Portfolio
-A responsive and animated personal portfolio website built with HTML, CSS, and JavaScript. Showcases my frontend skills, projects, resume, and includes smooth scrolling, section transitions, iconography, and visual effects. Deployed using GitHub Pages.
+# 🌐 Personal Portfolio Website
+
+A fully responsive and animated personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. This project showcases my professional profile, technical skills, projects, and work experience — all designed with clean UI/UX, modern effects, and icon integration.
+
+---
+
+## 📸 Live Demo
+
+🔗 [View Live Portfolio](https://asifasiraj.github.io/)  
+🎯 Hosted via **GitHub Pages**
+
+---
+
+## ✨ Features
+
+- Fully responsive design (mobile/tablet/desktop)
+- Smooth scrolling navigation
+- Animated section transitions and fade-in effects
+- Font Awesome icons integration
+- Project showcase grid with technology tags
+- Interactive "Contact Me" section
+- Sticky navbar and animated loader
+- Clean, modular HTML/CSS/JS code
+
+---
+
+## 📁 Folder Structure
+
