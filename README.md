@@ -4,12 +4,6 @@ A fully responsive and animated personal portfolio website built using **HTML**,
 
 ---
 
-## 📸 Live Demo
-
-🔗 [View Live Portfolio](https://asifasiraj.github.io/)  
-🎯 Hosted via **GitHub Pages**
-
----
 
 ## ✨ Features
 
@@ -22,7 +16,4 @@ A fully responsive and animated personal portfolio website built using **HTML**,
 - Sticky navbar and animated loader
 - Clean, modular HTML/CSS/JS code
 
----
-
-## 📁 Folder Structure
 
